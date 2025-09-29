@@ -1,6 +1,6 @@
 # Verdant: Regenerative Garden Planner
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/vgenev/madgrowr-garden)
 
 > An illustrative and intuitive web app to help you manage your small garden, plan crop rotations, and practice regenerative techniques.
 
@@ -101,4 +101,4 @@ Wrangler will provide you with the URL of your deployed application upon success
 
 Alternatively, you can deploy this project with a single click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/vgenev/madgrowr-garden)
